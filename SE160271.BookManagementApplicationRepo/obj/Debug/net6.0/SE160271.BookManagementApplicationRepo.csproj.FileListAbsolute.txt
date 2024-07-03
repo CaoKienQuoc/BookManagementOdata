@@ -1,0 +1,14 @@
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\bin\Debug\net6.0\SE160271.BookManagementApplicationRepo.deps.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\bin\Debug\net6.0\SE160271.BookManagementApplicationRepo.runtimeconfig.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\bin\Debug\net6.0\SE160271.BookManagementApplicationRepo.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\bin\Debug\net6.0\SE160271.BookManagementApplicationRepo.pdb
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.csproj.AssemblyReference.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.AssemblyInfoInputs.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.AssemblyInfo.cs
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.csproj.CoreCompileInputs.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\refint\SE160271.BookManagementApplicationRepo.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.pdb
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\SE160271.BookManagementApplicationRepo.genruntimeconfig.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\SE160271.BookManagementApplicationAPI\SE160271.BookManagementApplicationRepo\obj\Debug\net6.0\ref\SE160271.BookManagementApplicationRepo.dll
